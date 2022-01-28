@@ -3,6 +3,9 @@
 Deployed app:
 https://diablolaw.github.io/code_quiz/
 
+![image](https://user-images.githubusercontent.com/94478511/151463564-47a29723-be67-47dd-8d68-3038d8f04ed9.png)
+
+
 Repo link:
 https://github.com/diablolaw/code_quiz.git
 
